@@ -37,13 +37,22 @@
 # ───────────────────────────────────────────────────────────────
 # 在这里写入你想关注的关键词。
 # 每个词组用空行分隔，同一词组内的关键词是"或"的关系。
-/PLOS|plos|PLoS|PLOS ONE|PLOS Biology|PLOS Medicine => PLOS
+/PLOS|plos|PLoS => PLOS
+/PLOS ONE|plos one|Plos One => PLOS ONE
+/PLOS Biology|PLOS Medicine|PLOS Genetics|PLOS Pathogens => PLOS Journals
 
-水刊|撤稿|造假|争议|审稿|投稿|版面费|审稿速度|影响因子|分区|中科院分区
+plos期刊|plos投稿|plos审稿|plos论文
+
+投稿|审稿|审稿速度|投稿经验|版面费|accept|reject|revision
+
+水刊|撤稿|造假|争议|predatory|垃圾期刊|影响因子|分区|中科院分区
+
+公众号|微信公众号|小红书|知乎|微博
 
 !招聘
 !培训
 !广告
+!课程
 
 @10
 # ┌─────────────────────────────────────────────────────────────┐
